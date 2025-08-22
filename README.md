@@ -1,6 +1,6 @@
 # PaginaWeb2
 Mi segunda pagina web en HTML
-#FitManager
+# FitManager
 # 1) Títulos y subtítulos.
 # 2) Fondo sin CSS (usando bgcolor).
 # 3) Menú con navegación interna.
